@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/Bridging.png
+coverY: 0
+---
+
 # Adding Liquidity
 
 We hope this guide is useful to assist you to bringing liquidity to Sobal from Solana.
