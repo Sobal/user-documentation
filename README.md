@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/banner.png
+coverY: 0
+---
+
 # Welcome
 
 {% hint style="warning" %}
