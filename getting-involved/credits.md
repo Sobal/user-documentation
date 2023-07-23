@@ -6,7 +6,7 @@ description: >-
 
 # Credits
 
-Over time we will update this list with those who've helped along the way and that we'd like to show our appreciation.
+Over time we will update this list with those who've helped along the way to show our appreciation.
 
 * James Ikeguchi
 * Nicky Chalabi
