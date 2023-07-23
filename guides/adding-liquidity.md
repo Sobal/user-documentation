@@ -1,5 +1,4 @@
 ---
-cover: ../.gitbook/assets/Bridging.png
 coverY: 0
 ---
 
