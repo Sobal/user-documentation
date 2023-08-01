@@ -4,7 +4,8 @@
 
 ## Guides
 
-* [Adding Liquidity](guides/adding-liquidity.md)
+* [Adding Liquidity - Neon/Solana](guides/adding-liquidity-neon-solana.md)
+* [Adding Liquidity - Base](guides/adding-liquidity-base.md)
 
 ## Getting involved
 

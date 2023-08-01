@@ -3,7 +3,7 @@ cover: ../.gitbook/assets/Bridging.png
 coverY: 0
 ---
 
-# Adding Liquidity
+# Adding Liquidity - Neon/Solana
 
 We hope this guide is useful to assist you to bringing liquidity to Sobal from Solana.
 
@@ -20,9 +20,9 @@ Before you start, please ensure you have already the following:
 
 ### Steps <a href="#79f6" id="79f6"></a>
 
-* [Moving funds from Solana to NeonEVM via NeonPass](adding-liquidity.md#7f20)
-* [Setting up Metamask for the Neon chain](adding-liquidity.md#31e2)
-* [Depositing Liquidity to Sobal pools.](adding-liquidity.md#f96d)
+* [Moving funds from Solana to NeonEVM via NeonPass](adding-liquidity-neon-solana.md#7f20)
+* [Setting up Metamask for the Neon chain](adding-liquidity-neon-solana.md#31e2)
+* [Depositing Liquidity to Sobal pools.](adding-liquidity-neon-solana.md#f96d)
 
 ## Moving funds from Solana to NeonEVM via NeonPass <a href="#7f20" id="7f20"></a>
 
